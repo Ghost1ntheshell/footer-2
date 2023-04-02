@@ -1,0 +1,35 @@
+*.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.pie{
+    background-color: rgb(249, 255, 171);
+}
+.section,.red{
+    display: flex;
+    justify-content:space-evenly ;
+    gap: 40px;
+   
+}
+.section div{
+    display: flex;
+    flex-direction: column; 
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.telef{
+    display: flex;
+    flex-direction: column; 
+    
+
+}
